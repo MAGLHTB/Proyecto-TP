@@ -1,0 +1,535 @@
+# depslib dependency file v1.0
+1550136255 source:c:\users\miguel 聲gel\desktop\proyectotp\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1550154276 c:\users\miguel 聲gel\desktop\proyectotp\pantalla.h
+	"SDL2/SDL.h"
+
+1551379739 source:c:\users\miguel 聲gel\desktop\proyectotp\main.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1550139855 source:c:\users\miguel 聲gel\desktop\ma\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1550157876 c:\users\miguel 聲gel\desktop\ma\pantalla.h
+	"SDL2/SDL.h"
+
+1556819608 source:c:\users\miguel 聲gel\desktop\ma\main.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"Colision.h"
+	"Astro.h"
+	"Enemigo.h"
+	"Personaje.h"
+	"FLOT.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1555007438 c:\users\miguel 聲gel\desktop\ma\personaje.h
+	"Pantalla.h"
+
+1551988723 source:c:\users\miguel 聲gel\desktop\ma\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1555465245 source:c:\users\miguel 聲gel\desktop\ma\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555430018 c:\users\miguel 聲gel\desktop\ma\astro.h
+	"Pantalla.h"
+
+1556037413 source:c:\users\miguel 聲gel\desktop\ma\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1552591891 c:\users\miguel 聲gel\desktop\ma\colision.h
+
+1556041325 source:c:\users\miguel 聲gel\desktop\ma\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555429879 c:\users\miguel 聲gel\desktop\ma\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1555465214 source:c:\users\miguel 聲gel\desktop\ma\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1555434571 source:c:\users\miguel 聲gel\desktop\ma\flota.c
+	<stdlib.h>
+	"Flota.h"
+	"Colision.h"
+
+1553810463 c:\users\miguel 聲gel\desktop\ma\flota.h
+	"Enemigo.h"
+
+1555464480 c:\users\miguel 聲gel\desktop\ma\galaxia.h
+	"Astro.h"
+
+1555434571 c:\users\miguel 聲gel\desktop\ma\flota.c
+	<stdlib.h>
+	"Flota.h"
+	"Colision.h"
+
+1555462641 c:\users\miguel 聲gel\desktop\ma\flot.c
+	<stdlib.h>
+	"Colision.h"
+	"Enemigo.h"
+
+1556037656 c:\users\miguel 聲gel\desktop\ma\flot.h
+	"Enemigo.h"
+
+1556819870 source:c:\users\miguel 聲gel\desktop\ma\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1555461646 source:e:\ma\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555426420 e:\ma\astro.h
+	"Pantalla.h"
+
+1550157878 e:\ma\pantalla.h
+	"SDL2/SDL.h"
+
+1556033814 source:e:\ma\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1552591892 e:\ma\colision.h
+
+1556037726 source:e:\ma\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555426280 e:\ma\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1556816272 source:e:\ma\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1556034058 e:\ma\flot.h
+	"Enemigo.h"
+
+1555461616 source:e:\ma\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1555460882 e:\ma\galaxia.h
+	"Astro.h"
+
+1556817256 source:e:\ma\main.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"Colision.h"
+	"Astro.h"
+	"Enemigo.h"
+	"Personaje.h"
+	"FLOT.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1555003840 e:\ma\personaje.h
+	"Pantalla.h"
+
+1550139856 source:e:\ma\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1551988724 source:e:\ma\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1555465246 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555430020 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\astro.h
+	"Pantalla.h"
+
+1550157878 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\pantalla.h
+	"SDL2/SDL.h"
+
+1556821754 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1552591892 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\colision.h
+
+1558375708 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555429880 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1558376798 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1558376057 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\flot.h
+	"Enemigo.h"
+
+1556822056 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1555464482 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\galaxia.h
+	"Astro.h"
+
+1550139856 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1551988724 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1555007440 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\personaje.h
+	"Pantalla.h"
+
+1558391263 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\bala.c
+	"Bala.h"
+	<stdlib.h>
+
+1558341695 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\bala.h
+	"Pantalla.h"
+
+1558374770 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\disparo.c
+	"Disparo.h"
+	<stdlib.h>
+	"Colision.h"
+	"Pantalla.h"
+	"Bala.h"
+
+1558374652 c:\users\miguel 聲gel\desktop\proyecto tp arreglado\disparo.h
+	"Bala.h"
+
+1558421101 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado\main.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"Colision.h"
+	"Astro.h"
+	"Enemigo.h"
+	"Personaje.h"
+	"FLOT.h"
+	"Disparo.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1555461646 source:c:\users\alumno\desktop\proyecto tp arreglado\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555426420 c:\users\alumno\desktop\proyecto tp arreglado\astro.h
+	"Pantalla.h"
+
+1550157878 c:\users\alumno\desktop\proyecto tp arreglado\pantalla.h
+	"SDL2/SDL.h"
+
+1558387664 source:c:\users\alumno\desktop\proyecto tp arreglado\bala.c
+	"Bala.h"
+	<stdlib.h>
+
+1558338096 c:\users\alumno\desktop\proyecto tp arreglado\bala.h
+	"Pantalla.h"
+
+1556818154 source:c:\users\alumno\desktop\proyecto tp arreglado\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1552591892 c:\users\alumno\desktop\proyecto tp arreglado\colision.h
+
+1558464731 source:c:\users\alumno\desktop\proyecto tp arreglado\disparo.c
+	"Disparo.h"
+	<stdlib.h>
+	"Colision.h"
+	"Pantalla.h"
+	"Bala.h"
+
+1558463802 c:\users\alumno\desktop\proyecto tp arreglado\disparo.h
+	"Bala.h"
+	"FLOT.h"
+
+1558372110 source:c:\users\alumno\desktop\proyecto tp arreglado\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558436062 c:\users\alumno\desktop\proyecto tp arreglado\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1558464789 source:c:\users\alumno\desktop\proyecto tp arreglado\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1558464371 c:\users\alumno\desktop\proyecto tp arreglado\flot.h
+	"Enemigo.h"
+
+1556818456 source:c:\users\alumno\desktop\proyecto tp arreglado\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1555460882 c:\users\alumno\desktop\proyecto tp arreglado\galaxia.h
+	"Astro.h"
+
+1558465246 source:c:\users\alumno\desktop\proyecto tp arreglado\main.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"Colision.h"
+	"Astro.h"
+	"Enemigo.h"
+	"Personaje.h"
+	"FLOT.h"
+	"Disparo.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558436062 c:\users\alumno\desktop\proyecto tp arreglado\personaje.h
+	"Pantalla.h"
+
+1550139856 source:c:\users\alumno\desktop\proyecto tp arreglado\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1551988724 source:c:\users\alumno\desktop\proyecto tp arreglado\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1555465246 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1555430020 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\astro.h
+	"Pantalla.h"
+
+1550157878 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\pantalla.h
+	"SDL2/SDL.h"
+
+1558391264 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\bala.c
+	"Bala.h"
+	<stdlib.h>
+
+1558341696 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\bala.h
+	"Pantalla.h"
+
+1556821754 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1552591892 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\colision.h
+
+1558468332 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\disparo.c
+	"Disparo.h"
+	<stdlib.h>
+	"Colision.h"
+	"Pantalla.h"
+	"Bala.h"
+
+1558467404 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\disparo.h
+	"Bala.h"
+	"FLOT.h"
+
+1558467972 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\flot.h
+	"Enemigo.h"
+
+1558439662 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1558375710 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558468390 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1556822056 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1555464482 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\galaxia.h
+	"Astro.h"
+
+1550139856 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1551988724 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1558439662 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\personaje.h
+	"Pantalla.h"
+
+1558476611 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\astro.c
+	"Astro.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558482643 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\astro.h
+	"Pantalla.h"
+
+1550157878 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\pantalla.h
+	"SDL2/SDL.h"
+
+1558483634 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\bala.c
+	"Bala.h"
+	<stdlib.h>
+
+1558558654 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\bala.h
+	"Pantalla.h"
+
+1558476792 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\colision.c
+	"Colision.h"
+	<stdio.h>
+	<math.h>
+
+1558477095 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\colision.h
+
+1558468332 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\disparo.c
+	"Disparo.h"
+	<stdlib.h>
+	"Colision.h"
+	"Pantalla.h"
+	"Bala.h"
+
+1558558719 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\disparo.h
+	"Bala.h"
+	"FLOT.h"
+
+1558558654 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\flot.h
+	"Enemigo.h"
+
+1558558270 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\enemigo.h
+	"Pantalla.h"
+	<stdio.h>
+
+1558375710 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\enemigo.c
+	"Enemigo.h"
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558468390 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\flot.c
+	<stdlib.h>
+	"FLOT.h"
+	"Colision.h"
+	"Enemigo.h"
+	<stdio.h>
+
+1556822056 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\galaxia.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"colision.h"
+	<stdlib.h>
+
+1558558271 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\galaxia.h
+	"Astro.h"
+
+1550139856 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1551988724 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1558558654 c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\personaje.h
+	"Pantalla.h"
+
+1558516817 source:c:\users\miguel 聲gel\desktop\proyecto tp arreglado(bien)\c鏚igo\main.c
+	"Pantalla.h"
+	"Galaxia.h"
+	"Colision.h"
+	"Astro.h"
+	"Enemigo.h"
+	"Personaje.h"
+	"FLOT.h"
+	"Disparo.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
